@@ -1,4 +1,4 @@
-# IBM-Watson-RecomendationEngine
+# IBM-Watson-RecommendationEngine
 
 ## Introduction
 
